@@ -1,8 +1,9 @@
-# igfirst
+# ig
 
 Tutorial :
 
-Git clone https://github.com/zippien/igfirst.git
+Git clone https://github.com/
+
 
 cd igfirst
 
